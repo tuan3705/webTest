@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>toast_ngdungkhtontai</name>
+   <tag></tag>
+   <elementGuidId>86613f47-ec52-4913-a283-9f89bad947dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Người dùng không tồn tại' or . = 'Người dùng không tồn tại')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>365b6875-dfba-422a-ba6b-6b3f578ae2ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>go2072408551</value>
+      <webElementGuid>5d9b3fcf-cc11-4193-a670-d911b3bed424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Người dùng không tồn tại</value>
+      <webElementGuid>ae31f333-c20c-440d-94f6-ab4156515fdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[1]/div[@class=&quot;go2072408551&quot;]</value>
+      <webElementGuid>648cf01f-1afc-4dd2-aaa2-e24295127240</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Người dùng không tồn tại' or . = 'Người dùng không tồn tại')]</value>
+      <webElementGuid>a2617047-f806-4312-9c42-bec058f5fe26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

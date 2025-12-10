@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>soluongsk</name>
+   <tag></tag>
+   <elementGuidId>1a922d63-f8a9-426e-a735-181fa5e7f149</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.stat-value.text-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sự kiện sắp tới'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b8d1d0a-950c-437c-a5ef-b070db828fcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>stat-value text-primary</value>
+      <webElementGuid>59f642c3-a2f0-45b3-89fa-58e71e0977c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>06d0050c-6234-4170-b9fe-ec2dafa7ede2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased&quot;]/div[@class=&quot;drawer&quot;]/div[@class=&quot;drawer-content&quot;]/main[@class=&quot;container mx-auto p-4 md:p-6 lg:p-8&quot;]/div[@class=&quot;space-y-6&quot;]/div[@class=&quot;hero bg-gradient-to-br from-primary/10 via-base-100 to-secondary/10 rounded-2xl border border-base-300&quot;]/div[@class=&quot;hero-content text-center py-12&quot;]/div[@class=&quot;max-w-2xl&quot;]/div[@class=&quot;stats shadow-lg mt-8 bg-base-100 border border-base-300&quot;]/div[@class=&quot;stat place-items-center&quot;]/div[@class=&quot;stat-value text-primary&quot;]</value>
+      <webElementGuid>aeff9ec9-53cd-40bb-861c-eb81c9fd13c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sự kiện sắp tới'])[1]/following::div[1]</value>
+      <webElementGuid>933939c3-06bc-42a6-ac9c-925f31a32c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sự kiện tình nguyện'])[1]/following::div[4]</value>
+      <webElementGuid>90c6dc79-71c2-48a4-ac3c-04dbe801f586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh mục'])[1]/preceding::div[1]</value>
+      <webElementGuid>794fe129-6f84-4d91-b63d-429c37cebc3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sắp xếp theo'])[1]/preceding::div[2]</value>
+      <webElementGuid>3324ad06-a02a-4697-b40e-7766bd6f3d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='9']/parent::*</value>
+      <webElementGuid>baee6469-38a9-404c-bfaf-afcccdaa0ae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>b205b961-3427-43f4-99cc-4010e87d1e6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '9' or . = '9')]</value>
+      <webElementGuid>7dc2671e-2d36-47b8-93fb-4637193c7088</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

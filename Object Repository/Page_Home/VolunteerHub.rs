@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>VolunteerHub</name>
+   <tag></tag>
+   <elementGuidId>dd256a9e-0b2f-4f69-b40a-bd692bb73ac8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/preceding::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>05c3f9d2-d1e1-4119-bdaa-54fbaebde37b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden sm:inline bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent font-bold</value>
+      <webElementGuid>dd8cb895-00fe-4401-af51-985fa41467d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VolunteerHub</value>
+      <webElementGuid>3c8e3657-b4ef-4439-bbd3-101938d452ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased&quot;]/div[@class=&quot;drawer&quot;]/div[@class=&quot;drawer-content&quot;]/div[@class=&quot;navbar bg-base-100 shadow-lg sticky top-0 z-50 border-b border-base-300&quot;]/div[@class=&quot;container mx-auto flex items-center&quot;]/div[@class=&quot;flex-1&quot;]/a[@class=&quot;btn btn-ghost normal-case text-xl gap-2&quot;]/span[@class=&quot;hidden sm:inline bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent font-bold&quot;]</value>
+      <webElementGuid>739e3f43-8e92-4903-9dff-64569003badd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/preceding::span[1]</value>
+      <webElementGuid>49ac775a-8167-4d16-81b8-9e47344a3096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/preceding::span[1]</value>
+      <webElementGuid>ad3a5e3a-23f6-431f-ad1c-3dd2ea4dfa0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VolunteerHub']/parent::*</value>
+      <webElementGuid>0fab0175-b9b0-4b80-81cb-3925ba82e505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>b6c49efd-c8c8-4d5d-9989-99e264e91d88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'VolunteerHub' or . = 'VolunteerHub')]</value>
+      <webElementGuid>2cac2731-b7c3-4e77-b914-3b0cd2cb9b2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

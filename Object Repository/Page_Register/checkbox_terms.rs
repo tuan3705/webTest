@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_terms</name>
+   <tag></tag>
+   <elementGuidId>773f34a7-8041-4944-acbb-173766fce4ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='checkbox']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.checkbox.checkbox-primary.checkbox-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8bc16115-2caa-4ca3-ab96-3bf8ff84e463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox checkbox-primary checkbox-sm</value>
+      <webElementGuid>879e5865-9dd4-4c59-9585-70791868fe79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>55b5dc92-5a1d-4639-bc3b-53d2c5b75c89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased&quot;]/div[@class=&quot;min-h-screen flex items-center justify-center bg-gradient-to-br from-primary/10 via-base-100 to-secondary/10 p-4&quot;]/div[@class=&quot;relative w-full max-w-md&quot;]/div[@class=&quot;card bg-base-100/80 backdrop-blur-xl shadow-2xl border border-base-300/50&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;space-y-4&quot;]/div[@class=&quot;form-control mt-2&quot;]/label[@class=&quot;label cursor-pointer justify-start gap-3&quot;]/input[@class=&quot;checkbox checkbox-primary checkbox-sm&quot;]</value>
+      <webElementGuid>5f018f4e-c8c0-4f3a-9b44-7305e8aa191b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='checkbox']</value>
+      <webElementGuid>397afa09-7813-4ebb-b7c8-5fe37d823d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/input</value>
+      <webElementGuid>3ab5cb70-9c23-44d7-8bd9-66336a46bdf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>d824984e-1cbd-43e6-887f-2b70b1744748</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
