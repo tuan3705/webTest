@@ -31,7 +31,7 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Page_Home/button_dadangky'))
 
-WebUI.click(findTestObject('Page_Home/skiendadki_link'))
+WebUI.click(findTestObject('Page_Home/skddki'))
 
 WebUI.verifyElementPresent(findTestObject('Page_Home/button_huydangky'), 0)
 

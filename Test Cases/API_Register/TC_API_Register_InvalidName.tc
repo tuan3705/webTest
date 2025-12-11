@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_API_Register_InvalidName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>66af71c5-6d1c-4bfa-8b34-aebaa86cec97</testCaseGuid>
+</TestCaseEntity>

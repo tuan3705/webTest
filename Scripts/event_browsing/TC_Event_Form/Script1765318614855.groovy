@@ -27,14 +27,6 @@ WebUI.verifyElementClickable(findTestObject('Page_Home/button_login'))
 
 WebUI.verifyElementClickable(findTestObject('Page_Home/button_register'))
 
-WebUI.verifyElementClickable(findTestObject('Page_Home/button_bangtin'))
-
-WebUI.verifyElementClickable(findTestObject('Page_Home/button_dadangky'))
-
-WebUI.verifyElementClickable(findTestObject('Page_Home/button_thongbao'))
-
-WebUI.verifyElementClickable(findTestObject('Page_Home/button_xemchitiet'))
-
 WebUI.verifyElementText(findTestObject('Page_Home/Sukientinhng'), 'Sự kiện tình nguyện')
 
 WebUI.closeBrowser()

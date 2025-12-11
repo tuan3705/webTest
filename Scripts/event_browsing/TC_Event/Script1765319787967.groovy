@@ -21,7 +21,7 @@ WebUI.openBrowser('http://localhost:3000/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Page_Home/skien1'))
+WebUI.click(findTestObject('Page_Home/skienn'))
 
 WebUI.verifyElementText(findTestObject('Page_Home/button_dnhapdedki'), 'Đăng nhập để đăng ký')
 
